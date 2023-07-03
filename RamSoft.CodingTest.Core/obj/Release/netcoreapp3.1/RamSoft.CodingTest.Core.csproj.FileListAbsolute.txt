@@ -1,0 +1,13 @@
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\bin\Release\netcoreapp3.1\RamSoft.CodingTest.Core.deps.json
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\bin\Release\netcoreapp3.1\RamSoft.CodingTest.Core.runtimeconfig.json
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\bin\Release\netcoreapp3.1\RamSoft.CodingTest.Core.runtimeconfig.dev.json
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\bin\Release\netcoreapp3.1\RamSoft.CodingTest.Core.dll
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\bin\Release\netcoreapp3.1\RamSoft.CodingTest.Core.pdb
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\obj\Release\netcoreapp3.1\RamSoft.CodingTest.Core.csproj.AssemblyReference.cache
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\obj\Release\netcoreapp3.1\RamSoft.CodingTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\obj\Release\netcoreapp3.1\RamSoft.CodingTest.Core.AssemblyInfoInputs.cache
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\obj\Release\netcoreapp3.1\RamSoft.CodingTest.Core.AssemblyInfo.cs
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\obj\Release\netcoreapp3.1\RamSoft.CodingTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\obj\Release\netcoreapp3.1\RamSoft.CodingTest.Core.dll
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\obj\Release\netcoreapp3.1\RamSoft.CodingTest.Core.pdb
+C:\Users\Siva\source\repos\RamSoft.CodingTest.API\RamSoft.CodingTest.Core\obj\Release\netcoreapp3.1\RamSoft.CodingTest.Core.genruntimeconfig.cache

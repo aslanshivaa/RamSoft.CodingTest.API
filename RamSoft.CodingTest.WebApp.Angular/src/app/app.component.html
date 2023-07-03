@@ -1,0 +1,20 @@
+<div>
+  <ejs-kanban>
+    <e-columns>
+        <e-column headerText='To do' keyField='Open'></e-column>
+        <e-column headerText='In Progress' keyField='InProgress'></e-column>
+        <e-column headerText='Testing' keyField='Testing'></e-column>
+        <e-column headerText='Done' keyField='Close'></e-column>
+    </e-columns>
+</ejs-kanban>
+
+<ejs-kanban keyField='statusName' [dataSource]='data' [cardSettings]='cardSettings' >
+  
+  <e-columns>
+    <e-column headerText='New' keyField='New' ></e-column>
+    <e-column headerText='Active' keyField='Active'></e-column>
+    <e-column headerText='InProgress' keyField='InProgress'></e-column>    
+    <e-column headerText='Completed' keyField='Completed'></e-column>
+  </e-columns>
+</ejs-kanban>
+</div>
